@@ -1,3 +1,3 @@
-# ironconnect64.github.io
+# PSPConnect24 Website
 
-IronConnect64 is a PSP online service!
+PSPConnect24 is a PSP online service inspired by WiiConnect24. This repository has the source for the website, pspconnect24.xyz.
